@@ -1,4 +1,7 @@
-# CourseManager
+# Objetivo desse projeto:
+
+Implementando Serviços e Injeção de Dependências com Angular.
+criação de um serviço e consumindo APIs.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
